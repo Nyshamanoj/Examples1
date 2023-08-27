@@ -8,7 +8,7 @@ public class ExcelMain {
 		String s=ExcelNew.getStringData(0, 1);
 		System.out.println(s);
 		String n=ExcelNew.getIntegergData(0, 0);
-		System.out.println(n);
+		System.out.println(n);//committing
 			}
 
 }
